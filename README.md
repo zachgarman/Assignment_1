@@ -12,7 +12,7 @@ I actually know what that means!
 - This is the file that makes the index.html file so pretty.  
 
 ## app.js
--This is the file that has a fun message hidden in the console.  
+- This is the file that has a fun message hidden in the console.  
 
 ## README.md
--This is the file that you are currently looking at.  If you have questions about it, ask Danny.
+- This is the file that you are currently looking at.  If you have questions about it, ask Danny.
